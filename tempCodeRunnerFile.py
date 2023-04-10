@@ -1,1 +1,2 @@
-20//100
+    for i in list_:
+            print(i,end=" ")
