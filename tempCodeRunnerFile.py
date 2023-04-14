@@ -1,2 +1,1 @@
-    for i in list_:
-            print(i,end=" ")
+print(a, b)
