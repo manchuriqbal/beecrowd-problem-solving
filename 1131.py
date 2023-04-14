@@ -17,16 +17,17 @@ while count == 1:
             gremio+=1
         else:
             deaw+=1
-
-        while True:
             
-            n= int(input())
-            
-            if n ==2:
-                count=n
-                break
-            elif n == 1:
-                break
+        n= int(input())
+        
+        if n == 1:
+            continue
+        elif n ==2:
+            count=2
+            break
+        else: 
+            count=2
+        
     
     except EOFError:
         break
