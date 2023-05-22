@@ -6,5 +6,5 @@ for i in range(1,y+1):
         print(i)
         n = 1
     else:
-        print(i, end="")
+        print(i, end=" ")
         n+=1
