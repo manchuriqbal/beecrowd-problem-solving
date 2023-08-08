@@ -1,7 +1,2 @@
-X = int(input())
-Z = int(input())
-
-while X >= Z:
-    Z = int(input())
-
-print(Z)
+x = simple[0]
+# y = simple[1]
